@@ -1,4 +1,4 @@
-# ServiTx – Tienda de Telecomunicaciones (Next.js + Odoo 17)
+# ServiTx – Tienda virtual de productos y servicios de Telecomunicaciones (Next.js + Odoo 17)
 
 Tienda online headless: el frontend está hecho con **Next.js** y todos los datos
 (productos, servicios, categorías, pedidos y usuarios) vienen de **Odoo 17**
